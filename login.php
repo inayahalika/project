@@ -346,13 +346,13 @@ body {
 				<label for="signup-email">E-mail</label>
 				<input id="signup-email" type="email" name="email" required>
 			</div>
-			<div class="input-block">
+			<!-- <div class="input-block">
                     <label for="signup-level">level</label>
                     <select name="level" id="">
                         <option value="customers">customers</option>
                         <option value="seller">seller</option>
                     </select>
-            </div>
+            </div> -->
 			</fieldset>
 			<button type="submit" class="btn-signup" name="registrasi">Continue</button>
 		</form>

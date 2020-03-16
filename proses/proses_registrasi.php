@@ -7,7 +7,7 @@ if(isset($_POST['registrasi'])){
     $username=$_POST['username'];
     $password=md5($_POST['password']);
     $email=$_POST['email'];
-    $level = $_POST['level'];
+    $level = "customers";
 
 
     $input_query= mysqli_query($koneksi,"INSERT into user  VALUES('$id','$nama_lengkap','$username','$password','$email','$level')") or die(mysqli_error($input_query));

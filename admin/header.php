@@ -40,12 +40,12 @@
     <!-- ============================================================== -->
     <!-- Preloader - style you can find in spinners.css -->
     <!-- ============================================================== -->
-    <div class="preloader">
+    <!-- <div class="preloader">
         <div class="loader">
             <div class="loader__figure"></div>
             <p class="loader__label">Admin Wrap</p>
         </div>
-    </div>
+    </div> -->
     <!-- ============================================================== -->
     <!-- Main wrapper - style you can find in pages.scss -->
     <!-- ============================================================== -->
@@ -121,11 +121,11 @@
                         </li>
                         <li> <a class="waves-effect waves-dark" href="biodata.php" aria-expanded="false"><i class="fa fa-user-circle-o"></i><span class="hide-menu">Biodata</span></a>
                         </li>
-                        <li> <a class="waves-effect waves-dark" href="barang.php" aria-expanded="false"><i class="fa fa-user-circle-o"></i><span class="hide-menu">Form Barang</span></a>
-                        </li>
+                        <!-- <li> <a class="waves-effect waves-dark" href="barang.php" aria-expanded="false"><i class="fa fa-user-circle-o"></i><span class="hide-menu">Form Barang</span></a>
+                        </li> -->
                         <li> <a class="waves-effect waves-dark" href="tabel_biodata.php" aria-expanded="false"><i class="fa fa-table"></i><span class="hide-menu">Table Biodata</span></a>
                         </li>
-                        <li> <a class="waves-effect waves-dark" href="tabel_barang.php" aria-expanded="false"><i class="fa fa-smile-o"></i><span class="hide-menu">Tabel Barang</span></a>
+                        <li> <a class="waves-effect waves-dark" href="tabel_pesanan.php" aria-expanded="false"><i class="fa fa-smile-o"></i><span class="hide-menu">Tabel Pesanan</span></a>
                         </li>
                         <li> <a class="waves-effect waves-dark" href="map-google.php" aria-expanded="false"><i class="fa fa-globe"></i><span class="hide-menu">Map</span></a>
                         </li>

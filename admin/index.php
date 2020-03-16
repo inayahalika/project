@@ -89,7 +89,7 @@
                         <div class="card">
                             <div class="card-body">
                                 <div class="d-flex">
-                                    <div>
+                                    <!-- <div>
                                         <h5 class="card-title">Projects of the Month</h5>
                                     </div>
                                     <div class="ml-auto">
@@ -99,19 +99,19 @@
                                             <option value="2">March</option>
                                             <option value="3">April</option>
                                         </select>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="table-responsive m-t-20 no-wrap">
                                     <table class="table vm no-th-brd pro-of-month">
                                         <thead>
-                                            <tr>
+                                            <!-- <tr>
                                                 <th colspan="2">Assigned</th>
                                                 <th>Name</th>
                                                 <th>Budget</th>
-                                            </tr>
+                                            </tr> -->
                                         </thead>
                                         <tbody>
-                                            <tr>
+                                            <!-- <tr>
                                                 <td style="width:50px;"><span class="round">S</span></td>
                                                 <td>
                                                     <h6>Sunil Joshi</h6><small class="text-muted">Web Designer</small></td>
@@ -145,7 +145,7 @@
                                                     <h6>Micheal Doe</h6><small class="text-muted">Content Writer</small></td>
                                                 <td>Helping Hands</td>
                                                 <td>$12.9K</td>
-                                            </tr>
+                                            </tr> -->
                                         </tbody>
                                     </table>
                                 </div>
@@ -156,13 +156,13 @@
                     <!-- Column -->
                     <div class="col-lg-4">
                         <div class="card">
-                            <div class="up-img" style="background-image:url(assets/images/big/img1.jpg)"></div>
+                            <div class="up-img" style="background-image:url(assets/images/big/kkk.jpg)"></div>
                             <div class="card-body">
-                                <h5 class=" card-title">Business development of rules</h5>
-                                <span class="label label-info label-rounded">Technology</span>
-                                <p class="m-b-0 m-t-20">Titudin venenatis ipsum aciat. Vestibu ullamer quam. nenatis ipsum ac feugiat. Ibulum ullamcorper.</p>
+                                <h5 class=" card-title">CoffeeEnd!!</h5>
+                                <span class="label label-info label-rounded">Coffee Shop</span>
+                                <p class="m-b-0 m-t-20">BabyGirl belong to Bangchan</p>
                                 <div class="d-flex m-t-20">
-                                    <a class="link" href="javascript:void(0)">Read more</a>
+                                    <a class="link" href="javascript:void(0)"></a>
                                     <div class="ml-auto align-self-center">
                                         <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart-o"></i></a>
                                         <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-share-alt"></i></a>

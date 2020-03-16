@@ -32,26 +32,18 @@
 
                         echo"<script> 
                         alert('Welcome Admin!')
-                        window.location.href='../index.php';
+                        window.location.href='../admin/index.php';
                         </script>";
                     }
                 }else{
-                    echo'<script>alert("username dan password salah!")
+                    echo'<script>
+                    alert("username dan password salah!")
                     window.location.href="../login.php";
                     </script>';
 
             }
         }
 
-            //     if ($user == 'member' && $password == 'member123') {
-            //         header('location: nilai_bootstrap.php');
-            //     }else if ($user == "admin" && $password == "admin123") {
-            //         echo "<script> 
-            //         alert (window.location.href='harga_bootstrap.php');
-            //         </script>";
-            //     }else {
-            //         echo "Username dan Password yang anda masukkan salah";
-            //     }
-            // }
+            
 
 ?>

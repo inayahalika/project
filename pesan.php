@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-6">
-                <form action="proses/proses_order.php"  method="post" >
+                <form action="proses/proses_pesan.php"  method="post" >
                     <div class="form-group">
                         <label for="nama">Nama</label>
                         <input type="text" class="form-control col-sm-6" name="nama">
@@ -21,7 +21,7 @@
                         <label for="kategori">Menu</label>
                         <input type="text" class="form-control col-sm-6" name="menu">
                     </div>
-                        <input type="submit" class="btn btn-primary" name="order" value="order">
+                        <input type="submit" class="btn btn-primary" name="pesan" value="pesan">
                 </form>
             </div>
         </div>

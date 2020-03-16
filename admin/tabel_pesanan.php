@@ -49,16 +49,16 @@
                                         <thead>
                                             <tr>
                                                 <th>No</th>
-                                                <th>Nama Lengkap</th>
-                                                <th>Username</th>
-                                                <th>Password</th>
-                                                <th>Email</th>
-                                                <th>Level</th>
+                                                <th>Nama</th>
+                                                <th>Alamat</th>
+                                                <th>No.HP</th>
+                                                <th>Menu</th>
+                                                
                                             </tr>
                                         </thead>
 
                                         <?php
-                                            $nampildata=mysqli_query($koneksi, "SELECT * FROM user")or die (mysqli_error ($nampildata));
+                                            $nampildata=mysqli_query($koneksi, "SELECT * FROM pesan")or die (mysqli_error ($nampildata));
 
                                             if(mysqli_num_rows ($nampildata)==0){
                                                 echo '<tr>data kosong</tr>';
@@ -70,12 +70,12 @@
                                         <tbody>
                                             <tr>
                                                 <td><?php echo $no;?></td>
-                                                <td><?php echo $data['nama_lengkap']?></td>
-                                                <td><?php echo $data['username']?></td>
-                                                <td><?php echo $data['password']?></td>
-                                                <td><?php echo $data['email']?></td>
-                                                <td><?php echo $data['level']?></td>
-                                                <td><a href="../proses/proses_hapus_user.php?id_user=<?php echo $data['id_user']?>" type="submit" class="btn btn-danger">Hapus</a></td>
+                                                <td><?php echo $data['nama_customer']?></td>
+                                                <td><?php echo $data['alamat']?></td>
+                                                <td><?php echo $data['no_hp']?></td>
+                                                <td><?php echo $data['menu']?></td>
+                                        
+                                                <td><a href="../proses/proses_hapus_pesan.php?id_order=<?php echo $data['id_order']?>" type="submit" class="btn btn-danger">Hapus</a></td>
                                             </tr>
                                         </tbody>
                                         

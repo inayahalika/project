@@ -37,7 +37,7 @@
 							<div class="text p-4">
 								<h3>CoffeeCakey</h3>
 								<p>Coffee with Brown Sugar and CupCake </p>
-								<p class="price"><span>$2.90</span> <a href="order.php" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
+								<p class="price"><span>$2.90</span> <a href="pesan.php" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
 							</div>
 						</div>
 					</div>
@@ -47,7 +47,7 @@
 							<div class="text p-4">
 								<h3>Cappucireo</h3>
 								<p>Cappucino with Oreos</p>
-								<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
+								<p class="price"><span>$2.90</span> <a href="pesan.php" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
 							</div>
 						</div>
 					</div>
@@ -57,7 +57,7 @@
 							<div class="text p-4">
 								<h3>Blacky Bready Baby</h3>
 								<p>Black Coffee with Dark Bread</p>
-								<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
+								<p class="price"><span>$2.90</span> <a href="pesan.php" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
 							</div>
 						</div>
 					</div>
@@ -68,7 +68,7 @@
 							<div class="text p-4">
 								<h3>Chocoffee </h3>
 								<p>Enjoy your Coffee with Choco Bar </p>
-								<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
+								<p class="price"><span>$2.90</span> <a href="pesan.php" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
 							</div>
 						</div>
 					</div>
@@ -78,7 +78,7 @@
 							<div class="text p-4">
 								<h3>Cappucireo Cakey</h3>
 								<p>Cappucino with Oreo and Delicious CupCake</p>
-								<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
+								<p class="price"><span>$2.90</span> <a href="pesan.php" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
 							</div>
 						</div>
 					</div>
@@ -88,7 +88,7 @@
 							<div class="text p-4">
 								<h3>Cappukeyy</h3>
 								<p>Cappucino and CupCake. We will give you some ChocoHeart</p>
-								<p class="price"><span>$2.90</span> <a href="#" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
+								<p class="price"><span>$2.90</span> <a href="pesan.php" class="ml-2 btn btn-white btn-outline-white">Order</a></p>
 							</div>
 						</div>
 					</div>
