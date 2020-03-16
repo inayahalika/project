@@ -42,6 +42,7 @@
 				<li class="nav-item"><a href="qotd.php" class="nav-link">QOTD</a></li>
 				<li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
 				<li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
+				<li class="nav-item"><a href="logout.php" class="nav-link">Log Out</a></li>
 				</ul>
 			</div>
 			</div>

@@ -12,7 +12,7 @@ include'../koneksi/koneksi.php';
         
             if($pesan_input){
                 echo '<script> alert("Pesanan anda akan segera di proses")
-                window.location.href="../pesan.php";
+                window.location.href="../index.php";
                 </script>';
             }else{
                 echo 'Data gagal di input';

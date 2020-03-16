@@ -132,7 +132,7 @@
                         
                     </ul>
                     <div class="text-center m-t-30">
-                        <a href="https://wrappixel.com/templates/adminwrap/" class="btn waves-effect waves-light btn-info hidden-md-down"> Upgrade to Pro</a>
+                        <a href="../logout.php" class="btn waves-effect waves-light btn-danger hidden-md-down">Log Out</a>
                     </div>
                 </nav>
                 <!-- End Sidebar navigation -->
